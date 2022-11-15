@@ -1,7 +1,7 @@
 # Informe lab 1
 Deberes de Fund. Circuitos eléctricos 
 
-NOMBRE: Dirson Troya
+NOMBRES: Dirson Troya, 
 
 NRC: 10063 - 10066
 
