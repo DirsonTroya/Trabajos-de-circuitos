@@ -1,6 +1,6 @@
-# Trabajos-de-circuitos
+# Informe lab 1
 Deberes de Fund. Circuitos eléctricos 
-NOMBRE: JEAN MACIAS
+NOMBRE: Dirson Troya
 
 NRC: 10063 - 10066
 
