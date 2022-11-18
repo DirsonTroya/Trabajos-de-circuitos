@@ -3,7 +3,7 @@ Deberes de Fund. Circuitos eléctricos
 
 NOMBRES: Dirson Troya, 
 
-NRC: 10063 - 10066
+NRC: 10063 
 
 OBJETIVOS
 OBJETIVO GENERAL
